@@ -1,4 +1,5 @@
-##Directory Description
+
+#Directory Description
 
 Python
 Script 1 - create_db.py: Responsible for creating the database from the given .xlsx file
@@ -15,7 +16,7 @@ Script.js : This script is responsible for interacting with the HTML and display
 
 
 
-##Order of Execution
+#Order of Execution
 
 1. Run Script 1 (create_db.py) first to create the database which will contain the xlsx data in a table named “LumberFut”.
 2. Run Script 2 (app.py) to run the web app
